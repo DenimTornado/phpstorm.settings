@@ -1,0 +1,121 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="52ba31f7-4fe4-4f0c-99da-6b20b507cee9" name="flowers" url="http://margerie.timeweb.ru">
+        <fileTransfer host="margerie.timeweb.ru" port="21" rootFolder="/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="91734751-96d0-4457-8229-45657dc21ca8" name="Sale-svadba" url="http://sale-svadba.ru">
+        <fileTransfer host="92.53.96.10" port="21" rootFolder="/sale-svadba.ru/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="821fd645-bef6-4927-85f9-5007df75c5d3" name="simpelite.timeweb.ru" url="http://simpelite.ru">
+        <fileTransfer host="hox.timeweb.ru" port="21" rootFolder="/simpelite.ru/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="88e458b8-9344-4ee7-92ef-b112363bf050" name="Svadebyobraz" url="http://lozickaya.timeweb.ru">
+        <fileTransfer host="caritas.timeweb.ru" port="21" rootFolder="/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="09705244-cc34-4e9e-8f37-5e36372ed484" name="universum" url="http://insburo.com">
+        <fileTransfer host="37.140.192.199" port="21" rootFolder="/www/u0101419.isp.regruhosting.ru">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="434bacca-caa4-41a8-af40-f4e103f1b488" name="confetel.myjino.ru" url="http://confetel.ru">
+        <fileTransfer host="infocouo.bget.ru" port="21" rootFolder="/infocouo.bget.ru/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" forceListCommand="true" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="9789e2e2-79fe-4b4a-bf41-6a3b09d8dbd2" name="uni_reg" url="http://37.140.192.199">
+        <fileTransfer host="37.140.192.199" port="21" rootFolder="/www/u0101419.isp.regruhosting.ru">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="5286728d-6071-4eed-8642-f35ca2bfc5df" name="kreprf_new" url="http://simpelite.ru">
+        <fileTransfer host="hox.timeweb.ru" port="21" rootFolder="/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="8efdf03f-741d-4297-9423-64f9fe26f5a3" name="ricot" url="http://metall-kovka24.ru">
+        <fileTransfer host="92.53.122.43" port="21" rootFolder="/ricot/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="0a3f9879-9cff-4642-a82b-5397b598d1a0" name="simpelite.zendesk" url="http://simpelite.ru">
+        <fileTransfer host="hox.timeweb.ru" port="21" rootFolder="/zendesk/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="4d5da44c-4199-4f48-8e2a-39026c898aa8" name="rlp" url="http://metall-kovka24.ru">
+        <fileTransfer host="92.53.122.43" port="21" rootFolder="/ruslidpro.ru/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="148e3cf8-9c9d-46ea-9ff9-e8db4eaa595d" name="simpelite ng" url="http://simpelite.ru">
+        <fileTransfer host="hox.timeweb.ru" port="21" rootFolder="/simpelite.ru/public_html/ng">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="ab31d938-53db-4074-bb9b-a7ca83f7aecf" name="infocouo.bget.ru" url="http://confetel.ru">
+        <fileTransfer host="infocouo.bget.ru" port="21" rootFolder="/confetel.ru/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" forceListCommand="true" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="df1d1220-ea04-4bc2-ac31-7ab0d3e7f73d" name="flowers-wp" url="http://margerie.timeweb.ru">
+        <fileTransfer host="margerie.timeweb.ru" port="21" rootFolder="/irisburbonov45.ru/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+  <component name="webServersAuthStorage">
+    <data>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</data>
+  </component>
+</application>
