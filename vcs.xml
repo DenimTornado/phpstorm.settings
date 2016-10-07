@@ -102,9 +102,17 @@
           <option name="url" value="http://gitlab.office.local" />
           <option name="userName" value="s.nikulin@rocketjump.ru" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.repos.onrocket.net/Site/rj-games.com.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.repos.onrocket.net" />
+          <option name="userName" value="s.nikulin@rocketjump.ru" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="/Volumes/Secure/Projects/" />
+    <option name="cloneParentDir" value="/Volumes/data/Secure/Projects/" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="/Volumes/data/Dev/WebStormProjects/frostopt/sites/all/modules/ubercart" />
