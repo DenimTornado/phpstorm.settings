@@ -8,6 +8,7 @@
       <mapping ext="engine" type="PHP" />
       <mapping ext="test" type="PHP" />
       <mapping ext="install" type="PHP" />
+      <mapping pattern="Gemfile" type="PLAIN_TEXT" />
       <mapping pattern="33" type="PLAIN_TEXT" />
       <mapping pattern="footer.html.twig" type="PLAIN_TEXT" />
       <mapping pattern="gifts" type="PLAIN_TEXT" />
