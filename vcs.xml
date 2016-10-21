@@ -122,6 +122,10 @@
           <option name="url" value="http://gitlab.repos.onrocket.net/Site/Rocketjump.ru.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.repos.onrocket.net/web-department/social.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="/Volumes/data/Secure/Projects/" />
