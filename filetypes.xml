@@ -12,6 +12,7 @@
       <mapping pattern="33" type="PLAIN_TEXT" />
       <mapping pattern="footer.html.twig" type="PLAIN_TEXT" />
       <mapping pattern="gifts" type="PLAIN_TEXT" />
+      <mapping pattern="htaccess" type="PLAIN_TEXT" />
       <mapping pattern="_mixins" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="qq" type="PLAIN_TEXT" />
