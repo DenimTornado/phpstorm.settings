@@ -11,6 +11,7 @@
       <mapping pattern="Gemfile" type="PLAIN_TEXT" />
       <mapping pattern="33" type="PLAIN_TEXT" />
       <mapping pattern="footer.html.twig" type="PLAIN_TEXT" />
+      <mapping pattern="_no-news.scss" type="PLAIN_TEXT" />
       <mapping pattern="gifts" type="PLAIN_TEXT" />
       <mapping pattern="htaccess" type="PLAIN_TEXT" />
       <mapping pattern="_mixins" type="PLAIN_TEXT" />
