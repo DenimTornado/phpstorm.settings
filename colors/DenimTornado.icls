@@ -1,6 +1,6 @@
 <scheme name="DenimTornado" version="142" parent_scheme="Default">
   <option name="EDITOR_FONT_SIZE" value="13" />
-  <option name="CONSOLE_FONT_NAME" value="Inconsolata-dz" />
+  <option name="CONSOLE_FONT_NAME" value="Helvetica Neue" />
   <option name="CONSOLE_LIGATURES" value="true" />
   <option name="EDITOR_FONT_NAME" value="Inconsolata-dz" />
   <colors>
