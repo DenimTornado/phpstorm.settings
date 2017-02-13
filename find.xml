@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="File 'C:\~Work\Projects\soc.dev\app\Resources\views\base.html.twig'" />
     <option name="defaultScopeName" value="File 'C:\~Work\Projects\soc.dev\app\Resources\views\base.html.twig'" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="File 'C:\~Work\Projects\soc.dev\app\Resources\views\base.html.twig'" />
     <recentFileMasks>
       <mask>*.properties</mask>
