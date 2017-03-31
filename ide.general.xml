@@ -8,5 +8,7 @@
     <entry key="ide.firstStartup" value="false" />
     <entry key="dumb.aware.run.configurations" value="true" />
     <entry key="ide.tooltip.initialDelay" value="603" />
+    <entry key="ide.editor.tabs.open.at.the.end" value="true" />
+    <entry key="tabs.alphabetical" value="true" />
   </component>
 </application>

@@ -2,15 +2,12 @@
   <component name="UISettings">
     <option name="FONT_FACE" value="Helvetica Neue" />
     <option name="EDITOR_TAB_LIMIT" value="20" />
-    <option name="REUSE_NOT_MODIFIED_TABS" value="true" />
     <option name="ANIMATE_WINDOWS" value="false" />
     <option name="SHOW_TOOL_WINDOW_NUMBERS" value="false" />
     <option name="HIDE_TOOL_STRIPES" value="false" />
     <option name="SHOW_MAIN_TOOLBAR" value="true" />
     <option name="SHOW_NAVIGATION_BAR" value="false" />
-    <option name="SCROLL_TAB_LAYOUT_IN_EDITOR" value="false" />
     <option name="HIDE_TABS_IF_NEED" value="false" />
-    <option name="HIDE_KNOWN_EXTENSION_IN_TABS" value="true" />
     <option name="EDITOR_AA_TYPE" value="Greyscale" />
     <option name="COLOR_BLINDNESS" value="deuteranopia" />
     <option name="MOVE_MOUSE_ON_DEFAULT_BUTTON" value="true" />
@@ -19,5 +16,6 @@
     <option name="MAX_LOOKUP_LIST_HEIGHT" value="12" />
     <option name="PRESENTATION_MODE_FONT_SIZE" value="22" />
     <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />
+    <option name="SHOW_DIRECTORY_FOR_NON_UNIQUE_FILENAMES" value="false" />
   </component>
 </application>
