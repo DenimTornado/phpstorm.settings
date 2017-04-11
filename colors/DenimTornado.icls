@@ -448,7 +448,8 @@
     </option>
     <option name="JS.BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="818e96" />
+        <option name="FOREGROUND" value="666666" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="JS.BRACES">
